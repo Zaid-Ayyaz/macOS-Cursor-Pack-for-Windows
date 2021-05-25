@@ -1,3 +1,6 @@
+https://github.com/Zaid-Ayyaz/macOS-Cursor-Pack-for-Windows/blob/main/screenshot.jpg
+
+
 # macOS cursor pack for Windows
 
 ## How to use it:
