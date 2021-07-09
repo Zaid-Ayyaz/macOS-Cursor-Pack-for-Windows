@@ -11,7 +11,7 @@
 
 ## Authors
 
-* **Zaid Ayyaz** - [ZAIDAYYAZ_](https://azad.co)
+* **Zaid Ayyaz** - [ZAIDAYYAZ](https://azad.design)
 
 ## License
 
